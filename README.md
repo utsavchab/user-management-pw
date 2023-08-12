@@ -10,3 +10,7 @@
    - route: '/login'
    - method: 'POST'
    - keys = [email, password]
+
+3) Environemnt Varaibles
+   - PORT=PORTNUMBER
+   - MONGO_URI='mongodb string'
